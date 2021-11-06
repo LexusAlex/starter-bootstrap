@@ -1,0 +1,26 @@
+https://github.com/andreyalexeich/gulp-scss-starter
+https://github.com/YourCodeReview/landing
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+https://github.com/nicothin/NTH-start-project
+
+npm install require-dir --save-dev
+npm install gulp --save-dev
+npm install del --save-dev
+npm install @babel/register @babel/preset-env @babel/core --save-dev
+npm install gulp-replace --save-dev
+npm install webpack webpack-stream --save-dev
+npm install babel-loader --save-dev
+npm install gulp-htmlmin --save-dev
+npm install bootstrap
+npm install yargs gulp-if gulp-plumber gulp-sass gulp-rename gulp-clean-css gulp-group-css-media-queries gulp-autoprefixer gulp-sourcemaps browser-sync gulp-debug --save-dev
+
+https://github.com/twbs/bootstrap-npm-starter/blob/main/scss/starter.scss
+npm install normalize.css
+
+mobile first
+переопределить переменные можно любые
+https://www.youtube.com/watch?v=ya2M4c3p01E&list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&index=5
+
+Курс по sass
+
+https://www.youtube.com/watch?v=4QnGPkQCza0&list=PLmfIBo6rTVR7YkcR_26vgH37l3GS2pYBa
